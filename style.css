@@ -17,6 +17,6 @@
 .do{
     color: red;
 }
-.body{
-    background: rbg(89,85,71);
+body{
+    background-color: darkgoldenrod;
 }
